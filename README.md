@@ -1,6 +1,6 @@
-# vue-pwa
+# VUE PWA 
 
-## Vue PWA Config
+## 🥸 Vue PWA Config
 :open_file_folder: vue.config.js
 ```js
 const { defineConfig } = require("@vue/cli-service");
